@@ -1,0 +1,172 @@
+[21:13:02] [main/INFO] [FML/]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[21:13:03] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_45
+[21:13:03] [main/INFO] [STDERR/]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[21:13:03] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:13:03] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[21:13:03] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:13:03] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:13:03] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:13:04] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:13:04] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:13:04] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[21:13:05] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[21:13:05] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[21:13:05] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:13:10] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[21:13:10] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[21:13:10] [Server thread/INFO] [FML/]: Replaced 184 ore recipies
+[21:13:10] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[21:13:10] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[21:13:10] [Server thread/INFO] [FML/]: Searching D:\MinecraftServer\mods for mods
+[21:13:11] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[21:13:12] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at CLIENT
+[21:13:12] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at SERVER
+[21:13:12] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[21:13:12] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[21:13:12] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[21:13:12] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[21:13:12] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[21:13:12] [Server thread/INFO] [FML/]: Applying holder lookups
+[21:13:12] [Server thread/INFO] [FML/]: Holder lookups applied
+[21:13:12] [Server thread/INFO] [FML/]: Injecting itemstacks
+[21:13:12] [Server thread/INFO] [FML/]: Itemstack injection complete
+[21:13:12] [Server thread/INFO] [Minecraft/]: This server is running Cauldron version 1.7.10-1614.58 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[21:13:12] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[21:13:12] [Server thread/INFO] [Minecraft/]: Using 2 threads for Netty based IO
+[21:13:13] [Server thread/INFO] [FML/]: Injecting itemstacks
+[21:13:13] [Server thread/INFO] [FML/]: Itemstack injection complete
+[21:13:13] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[21:13:13] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[21:13:13] [Server thread/INFO] [FML/]: Applying holder lookups
+[21:13:13] [Server thread/INFO] [FML/]: Holder lookups applied
+[21:13:13] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[21:13:14] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[21:13:14] [Server thread/INFO] [test.main.TestPlugin/]: [TestPlugin] Loading TestPlugin v1,0
+[21:13:14] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.13.1
+[21:13:14] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[21:13:14] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.7.1-b91
+[21:13:14] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[21:13:14] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[21:13:14] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[21:13:14] [Server thread/INFO] [de.epiceric.shopchest.ShopChest/]: [ShopChest] Loading ShopChest v1.12.3
+[21:13:14] [Server thread/INFO] [de.epiceric.shopchest.ShopChest/]: [ShopChest] Using locale "en_US"
+[21:13:14] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.7.1-b91
+[21:13:14] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Economy] Essentials Economy found: Waiting
+[21:13:15] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[21:13:15] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabled Version 1.7.1-b91
+[21:13:15] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4fa65327)
+[21:13:15] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@4fa65327)
+[21:13:15] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@4fa65327)
+[21:13:17] [Server thread/INFO] [test.main.TestPlugin/]: [TestPlugin] Enabling TestPlugin v1,0
+[21:13:17] [Server thread/INFO] [test.main.TestPlugin/]: [TestPlugin] TestPlugin has been enabled!
+[21:13:17] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.13.1
+[21:13:17] [Server thread/INFO] [Essentials/]: Версия Bukkit-ядра изменена. Версия не проверяется.
+[21:13:17] [Server thread/INFO] [Essentials/]: 1.7.10-1614.58 (MC: 1.7.10)
+[21:13:17] [Server thread/INFO] [Essentials/]: 1.7.10-R0.1-SNAPSHOT
+[21:13:17] [Server thread/INFO] [Essentials/]: Создаю файл конфигурации из шаблона: D:\MinecraftServer\plugins\Essentials\config.yml
+[21:13:17] [pool-7-thread-1/INFO] [Essentials/]: Создаю пустой конфигурационный файл: D:\MinecraftServer\plugins\Essentials\upgrades-done.yml
+[21:13:17] [Server thread/INFO] [Essentials/]: Создаю файл конфигурации из шаблона: D:\MinecraftServer\plugins\Essentials\worth.yml
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] This will start 5 minutes after the first admin/op joins.
+[21:13:18] [Server thread/INFO] [Minecraft/]: [Vault][Economy] Essentials Economy hooked.
+[21:13:18] [Server thread/INFO] [Essentials/]: Essentials: Using config file enhanced permissions.
+[21:13:18] [Server thread/INFO] [Essentials/]: Permissions listed in as player-commands will be given to all users.
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[21:13:18] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[21:13:18] [Server thread/INFO] [de.epiceric.shopchest.ShopChest/]: [ShopChest] Enabling ShopChest v1.12.3
+[21:13:18] [Server thread/WARN] [de.epiceric.shopchest.ShopChest/]: [ShopChest] Server version not officially supported: v1_7_R4!
+[21:13:18] [Server thread/WARN] [de.epiceric.shopchest.ShopChest/]: [ShopChest] Plugin may still work, but more errors are expected!
+[21:13:18] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling ShopChest v1.12.3 (Is it up to date?)
+java.lang.NoSuchFieldError: SLIME_BLOCK
+	at de.epiceric.shopchest.language.LanguageUtils.load(LanguageUtils.java:308) ~[?:?]
+	at de.epiceric.shopchest.ShopChest.onEnable(ShopChest.java:158) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[JavaPlugin.class:1.7.10-1614.58]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-1614.58]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-1614.58]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:438) [CraftServer.class:1.7.10-1614.58]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:372) [CraftServer.class:1.7.10-1614.58]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:519) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:493) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:453) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:337) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:643) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[21:13:18] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[21:13:18] [Server thread/INFO] [/]: Hey, you don't have a server icon! Try out one of Thermos' Icon Generators at https://github.com/CyberdyneCC/ThermosIconGenerators !
+[21:13:18] [Craft Scheduler Thread - 5/INFO] [net.milkbowl.vault.Vault/]: [Vault] Checking for Updates ... 
+[21:13:20] [Thermos version retriever/WARN] [Thermos: TVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at thermos.TLog.log(TLog.java:30) [TLog.class:1.7.10-1614.58]
+	at thermos.TLog.warning(TLog.java:41) [TLog.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.uncaughtException(TVersionRetriever.java:111) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.check(TVersionRetriever.java:91) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.run(TVersionRetriever.java:69) [TVersionRetriever.class:1.7.10-1614.58]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more
+[21:13:21] [Craft Scheduler Thread - 5/INFO] [net.milkbowl.vault.Vault/]: [Vault] No new version available
+[21:14:24] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[21:14:24] [Netty IO #0/INFO] [FML/]: Client attempting to join with 3 mods : FML@7.10.99.99,Forge@10.13.4.1614,mcp@9.05
+[21:14:24] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [kimagine] at CLIENT
+[21:14:24] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:14:25] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] [Metrics] Admin join - Starting 5 minute opt-out period.
+[21:14:25] [pool-7-thread-1/INFO] [Essentials/]: Создаю пустой конфигурационный файл: D:\MinecraftServer\plugins\Essentials\userdata\lioncub3.yml
+[21:14:25] [Server thread/WARN] [Essentials/]: File motd.txt does not exist. Creating one for you.
+[21:18:35] [Netty IO #0/INFO] [/]: <lioncub3> 12
+[21:19:34] [Netty IO #0/INFO] [/]: <lioncub3> qwe
+[21:19:36] [Netty IO #0/INFO] [/]: <lioncub3> !esfd
+[21:21:11] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] attempting to charge user lioncub3
+[21:21:11] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] calculated command (essentials) cost for lioncub3 as 0
+[21:21:11] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] charge user lioncub3 completed
+[21:21:21] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] checking if lioncub3 has essentials.mail - true
+[21:21:21] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] checking if lioncub3 has essentials.essentials - true
+[21:21:21] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] checking if lioncub3 can afford charge.
+[21:21:21] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] calculated command (essentials) cost for lioncub3 as 0
+[21:23:20] [Thermos version retriever/WARN] [Thermos: TVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at thermos.TLog.log(TLog.java:30) [TLog.class:1.7.10-1614.58]
+	at thermos.TLog.warning(TLog.java:41) [TLog.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.uncaughtException(TVersionRetriever.java:111) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.check(TVersionRetriever.java:91) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.run(TVersionRetriever.java:69) [TVersionRetriever.class:1.7.10-1614.58]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more
+[21:23:41] [Server thread/INFO] [/]: [Помощь] lioncub3: 123
+[21:33:21] [Thermos version retriever/WARN] [Thermos: TVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at thermos.TLog.log(TLog.java:30) [TLog.class:1.7.10-1614.58]
+	at thermos.TLog.warning(TLog.java:41) [TLog.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.uncaughtException(TVersionRetriever.java:111) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.check(TVersionRetriever.java:91) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.run(TVersionRetriever.java:69) [TVersionRetriever.class:1.7.10-1614.58]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more
+[21:33:24] [Netty IO #0/INFO] [/]: <lioncub3> lightning
+[21:35:05] [Netty IO #0/INFO] [/]: <~lioncub2> fds
+[21:35:15] [Netty IO #0/INFO] [/]: <lioncub3> dfs
+[21:43:21] [Thermos version retriever/WARN] [Thermos: TVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at thermos.TLog.log(TLog.java:30) [TLog.class:1.7.10-1614.58]
+	at thermos.TLog.warning(TLog.java:41) [TLog.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.uncaughtException(TVersionRetriever.java:111) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.check(TVersionRetriever.java:91) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.run(TVersionRetriever.java:69) [TVersionRetriever.class:1.7.10-1614.58]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more
+[21:48:15] [Netty IO #0/INFO] [/]: <lioncub3> 2
+[21:53:21] [Thermos version retriever/WARN] [Thermos: TVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at thermos.TLog.log(TLog.java:30) [TLog.class:1.7.10-1614.58]
+	at thermos.TLog.warning(TLog.java:41) [TLog.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.uncaughtException(TVersionRetriever.java:111) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.check(TVersionRetriever.java:91) [TVersionRetriever.class:1.7.10-1614.58]
+	at thermos.updater.TVersionRetriever.run(TVersionRetriever.java:69) [TVersionRetriever.class:1.7.10-1614.58]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more

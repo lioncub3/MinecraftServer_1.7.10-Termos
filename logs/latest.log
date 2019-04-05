@@ -1,0 +1,146 @@
+[17:13:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:13:55] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:13:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:13:55] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[17:13:56] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_45
+[17:13:56] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[17:13:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:13:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:13:56] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:13:56] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:13:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:13:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:13:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:13:58] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[17:13:59] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[17:13:59] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[17:14:00] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:14:05] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:14:05] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[17:14:05] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[17:14:05] [Server thread/INFO]: Replaced 184 ore recipies
+[17:14:05] [Server thread/INFO]: Completed early MinecraftForge initialization
+[17:14:05] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:14:05] [Server thread/INFO]: Searching D:\MinecraftServer\1.7.10(Termos)RUN\mods for mods
+[17:14:06] [Server thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[17:14:07] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at CLIENT
+[17:14:07] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at SERVER
+[17:14:07] [Server thread/INFO]: Processing ObjectHolder annotations
+[17:14:07] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[17:14:07] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[17:14:07] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[17:14:07] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[17:14:07] [Server thread/INFO]: Applying holder lookups
+[17:14:07] [Server thread/INFO]: Holder lookups applied
+[17:14:07] [Server thread/INFO]: Injecting itemstacks
+[17:14:07] [Server thread/INFO]: Itemstack injection complete
+[17:14:07] [Server thread/INFO]: Loading properties
+[17:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[17:14:08] [Server thread/INFO]: This server is running Cauldron version 1.7.10-1614.58 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[17:14:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:14:08] [Server thread/INFO]: Using 2 threads for Netty based IO
+[17:14:08] [Server thread/INFO]: Generating keypair
+[17:14:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:14:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:14:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:14:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:14:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:14:08] [Server thread/INFO]: Injecting itemstacks
+[17:14:08] [Server thread/INFO]: Itemstack injection complete
+[17:14:09] [Server thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[17:14:09] [Server thread/INFO]: Preparing level "world"
+[17:14:09] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[17:14:09] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[17:14:09] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[17:14:09] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[17:14:09] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[17:14:09] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[17:14:09] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[17:14:09] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[17:14:09] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[17:14:09] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[17:14:09] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[17:14:09] [Server thread/INFO]: Applying holder lookups
+[17:14:09] [Server thread/INFO]: Holder lookups applied
+[17:14:10] [Server thread/INFO]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[17:14:10] [Server thread/INFO]: Loaded inheritance map of 895 classes
+[17:14:10] [Server thread/INFO]: [TestPlugin] Loading TestPlugin v1,0
+[17:14:10] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[17:14:10] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[17:14:10] [Server thread/INFO]: [Vault] Loading Vault v1.7.1-b91
+[17:14:10] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[17:14:10] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[17:14:10] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[17:14:10] [Server thread/INFO]: [ShopChest] Loading ShopChest v1.12.3
+[17:14:10] [Server thread/INFO]: [ShopChest] Using locale "en_US"
+[17:14:10] [Server thread/INFO]: [Vault] Enabling Vault v1.7.1-b91
+[17:14:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:14:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:14:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.1-b91
+[17:14:12] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5e5c6849)
+[17:14:12] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@5e5c6849)
+[17:14:12] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@5e5c6849)
+[17:14:12] [Server thread/INFO]: Preparing start region for level 0
+[17:14:13] [Server thread/INFO]: Preparing spawn area: 40%
+[17:14:13] [Server thread/INFO]: [TestPlugin] Enabling TestPlugin v1,0
+[17:14:14] [Server thread/INFO]: [TestPlugin] TestPlugin has been enabled!
+[17:14:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[17:14:14] [Server thread/INFO]: Версия Bukkit-ядра изменена. Версия не проверяется.
+[17:14:14] [Server thread/INFO]: 1.7.10-1614.58 (MC: 1.7.10)
+[17:14:14] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[17:14:14] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[17:14:14] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[17:14:14] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[17:14:14] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[17:14:14] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[17:14:15] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[17:14:15] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[17:14:15] [Server thread/INFO]: [ShopChest] Enabling ShopChest v1.12.3
+[17:14:15] [Server thread/WARN]: [ShopChest] Server version not officially supported: v1_7_R4!
+[17:14:15] [Server thread/WARN]: [ShopChest] Plugin may still work, but more errors are expected!
+[17:14:15] [Server thread/ERROR]: Error occurred while enabling ShopChest v1.12.3 (Is it up to date?)
+java.lang.NoSuchFieldError: SLIME_BLOCK
+	at de.epiceric.shopchest.language.LanguageUtils.load(LanguageUtils.java:308) ~[?:?]
+	at de.epiceric.shopchest.ShopChest.onEnable(ShopChest.java:158) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[JavaPlugin.class:1.7.10-1614.58]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-1614.58]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-1614.58]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:438) [CraftServer.class:1.7.10-1614.58]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:372) [CraftServer.class:1.7.10-1614.58]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:519) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:493) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:453) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:337) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:643) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[17:14:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:14:15] [Server thread/INFO]: Done (6,428s)! For help, type "help" or "?"
+[17:14:15] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+[17:14:15] [Server thread/INFO]: Hey, you don't have a server icon! Try out one of Thermos' Icon Generators at https://github.com/CyberdyneCC/ThermosIconGenerators !
+[17:14:15] [Server thread/INFO]: [Thermos] Refusing to lock affinity, disabled in cauldron.yml
+[17:14:15] [Craft Scheduler Thread - 6/INFO]: [Vault] Checking for Updates ... 
+[17:14:17] [Thermos version retriever/INFO]: New version of Thermos available: 1.7.10-1614.57
+[17:14:17] [Thermos version retriever/INFO]: Download at: https://github.com/CyberdyneCC/Thermos/releases
+[17:14:17] [Craft Scheduler Thread - 6/INFO]: [Vault] No new version available
+[17:14:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:15:18] [Server thread/INFO]: CONSOLE: Stopping the server..
+[17:15:18] [Server thread/INFO]: Stopping server
+[17:15:18] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
+[17:15:18] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[17:15:18] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[17:15:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[17:15:18] [Server thread/INFO]: [Vault] Disabling Vault v1.7.1-b91
+[17:15:18] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[17:15:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[17:15:18] [Server thread/INFO]: [TestPlugin] Disabling TestPlugin v1,0
+[17:15:18] [Server thread/INFO]: [TestPlugin] TestPlugin has been disabled!
+[17:15:18] [Server thread/INFO]: Saving players
+[17:15:18] [Server thread/INFO]: Saving worlds
+[17:15:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:15:18] [Server thread/INFO]: Saving chunks for level 'DIM1'/The End
+[17:15:18] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[17:15:18] [Server thread/INFO]: Unloading dimension 0
+[17:15:18] [Server thread/INFO]: Unloading dimension -1
+[17:15:18] [Server thread/INFO]: Unloading dimension 1
+[17:15:18] [Server thread/INFO]: Applying holder lookups
+[17:15:18] [Server thread/INFO]: Holder lookups applied

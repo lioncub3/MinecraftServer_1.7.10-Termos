@@ -1,0 +1,24 @@
+uuid: 6a72a244-f5ce-3d25-a968-3d1aaa61ae86
+timestamps:
+  login: 1545765265356
+  kits:
+    tools: 1545766138083
+  lastteleport: 1545767237502
+  logout: 1545767659681
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -40.51586973273538
+  y: 66.17590496641185
+  z: 146.93579129987407
+  yaw: -344.37164
+  pitch: -6.41559
+nickname: lioncub3
+powertools: {}
+logoutlocation:
+  world: world
+  x: -116.30189987205873
+  y: 91.66555159414968
+  z: -336.8933217796053
+  yaw: -95.2158
+  pitch: 21.934364
